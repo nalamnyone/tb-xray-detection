@@ -152,7 +152,6 @@ Open tuberculosis_detection.ipynb in Jupyter or Google Colab
 
 ##  Future Improvements
 
-- Fine-tuning the DenseNet121 base model
-- Grad-CAM visualization for model interpretability
-- Deploy as a Streamlit web application
-- Expand to multi-disease classification
+- Fine-tune the DenseNet121 base layers for potentially higher recall
+- Add Grad-CAM visualization to explain model predictions
+- Deploy as a simple web app using Streamlit
